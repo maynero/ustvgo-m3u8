@@ -1,0 +1,5 @@
+{
+  "name": "ustvgo.tv to m3u8",
+  "description": "Convert ustvgo.tv channels to m3u8",
+  "repository": "https://github.com/maynero/ustvgo-m3u8",
+}
